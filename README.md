@@ -1,6 +1,6 @@
 # Paradox Kairos
 
-![Preface picture](rmimages/vault_clock.jpg)
+![Preface picture](rmimages/clock_core.jpg)
 
 What this is:
 1) A Python environment to explore computer capabilities and have them interlinked for greater purposes. OR: kitchen sink codebase.
